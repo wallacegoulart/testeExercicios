@@ -1,0 +1,42 @@
+[
+  {
+    "titulo": "PHP",
+    "preco": 50
+  },
+  {
+    "titulo": "Javascript",
+    "preco": 30
+  },
+  {
+    "titulo": "PowerPoint",
+    "preco": 5
+  },
+  {
+    "titulo": "Python",
+    "preco": 20
+  },
+  {
+    "titulo": "Java",
+    "preco": 50
+  },
+  {
+    "titulo": "C",
+    "preco": 80
+  },
+  {
+    "titulo": "C++",
+    "preco": 70
+  },
+  {
+    "titulo": "Prolog",
+    "preco": 60
+  },
+  {
+    "titulo": "Sql",
+    "preco": 15
+  },
+  {
+    "titulo": "Excel",
+    "preco": 10
+  }
+]
